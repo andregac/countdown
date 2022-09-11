@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "countdown",
+    "slug": "countdown",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
