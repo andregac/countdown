@@ -16,7 +16,7 @@ Aplicação de registro de eventos com contagem regressiva de dias.
 
 **Styled-Components**. 
 
-**React Navigator**. 
+**React Navigation**. 
 
 **AsyncStorage**. 
 
