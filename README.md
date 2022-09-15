@@ -4,7 +4,7 @@
 
 ### Especificações do projeto
 
-Aplicação de registro de eventos com contagem regressiva de dias.
+Aplicação de registro de eventos com contagem regressiva em dias.
 
 ### Tecnologias utilizadas
 
